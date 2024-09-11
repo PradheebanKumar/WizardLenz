@@ -1068,3 +1068,24 @@ html {
         transform: translateY(-1000px);
     }
 }
+@media(max-width: 1000px){
+    #sec{
+    
+        position:absolute;
+        top:70em;
+        width:1180px;
+        height:30em;
+        background: linear-gradient(135deg,rgba(38,26,61,1),rgba(0,0,0,0.7));
+        align-items:center ;
+    }
+    #fi{
+        left:800px;
+    }
+    #down1{
+        margin-left: 20em;
+    }
+    #conim1{
+        margin-left: 48em;
+    }
+  
+  }
